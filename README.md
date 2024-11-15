@@ -33,13 +33,24 @@ Cmd + Shift + G : finder 이동
 
 ## Homebrew - 설치 패키지 관리자
 
-## thefuck 
+https://gymdev.tistory.com/91
+https://brew.sh/ko/
 
-## monosnap - 스크린샷
+## thefuck
+
+https://github.com/nvbn/thefuck
+
+## monosnap
+
+https://monosnap.com/download/mac
 
 ## raycast 
 
-## rectangle - 창 설정 
+https://www.raycast.com/
+
+## rectangle
+
+https://rectangleapp.com/
 
 ## sourcetree
 
@@ -48,6 +59,8 @@ Cmd + Shift + G : finder 이동
 ## karabiner - 단축키
 
 ### 한영 변환 및 보드 설정  
+
+https://karabiner-elements.pqrs.org/
 
 맥북 키보드 설정
 + right_command -> f18
@@ -65,17 +78,29 @@ Cmd + Shift + G : finder 이동
 font : Droid Sans Mono
 > IntelliJ에서는 Consolas
 
+https://www.fontsquirrel.com/fonts/droid-sans-mono
+https://gist.github.com/avalonalex/8125197
+
 ### 테마 
 https://draculatheme.com/iterm
 
 ### ohnyzsh 다운로드
 
+https://ohmyz.sh/#install
+
 테마 : https://draculatheme.com/zsh
 
 ### amix vimrc 다운로드 - vim 꾸미기 
 
+https://github.com/amix/vimrc
+
 ## asdf 
 
 zsh & homebrew 설치 
+
+
+### 인텔리제이 다운로드 
+
+https://www.jetbrains.com/idea/download/download-thanks.html?platform=macM1
 
 
